@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5536E642-AC12-46C0-9BF4-9AC44E787762</string>
+	<key>IDESourceControlProjectName</key>
+	<string>The Podium</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8E9284745739A42F9FAB2F007CA3F61C47DB97D2</key>
+		<string>https://github.com/swhc1066/The-Podium.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>The Podium.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8E9284745739A42F9FAB2F007CA3F61C47DB97D2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/swhc1066/The-Podium.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8E9284745739A42F9FAB2F007CA3F61C47DB97D2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8E9284745739A42F9FAB2F007CA3F61C47DB97D2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>The%20Podium</string>
+		</dict>
+	</array>
+</dict>
+</plist>

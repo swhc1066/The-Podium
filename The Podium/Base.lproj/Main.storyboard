@@ -256,9 +256,6 @@ The members of Flatwater Cycling are actively involved in the Nebraska Cycling A
                                     <action selector="postToTwitter:" destination="660-Zy-yT4" eventType="touchUpInside" id="IMh-oN-KvN"/>
                                 </connections>
                             </button>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="iOS-App-background-3.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="MFn-Tj-0Mf">
-                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
-                            </imageView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Pn6-4N-cIN">
                                 <rect key="frame" x="278" y="30" width="26" height="22"/>
                                 <state key="normal" image="X">
@@ -296,6 +293,9 @@ The members of Flatwater Cycling are actively involved in the Nebraska Cycling A
                             <activityIndicatorView hidden="YES" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" hidesWhenStopped="YES" style="gray" translatesAutoresizingMaskIntoConstraints="NO" id="Ep9-cK-Cns">
                                 <rect key="frame" x="71" y="304" width="20" height="20"/>
                             </activityIndicatorView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="iOS-App-background-3.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="MFn-Tj-0Mf">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                            </imageView>
                         </subviews>
                         <constraints>
                             <constraint firstItem="pM6-Hm-jw2" firstAttribute="top" secondItem="MtS-1X-DxU" secondAttribute="bottom" constant="15" id="1Cy-Sb-t5H"/>
